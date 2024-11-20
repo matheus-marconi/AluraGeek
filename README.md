@@ -58,4 +58,4 @@ Os endpoints configurados no JSON Server permitem interações simples com os pr
 
 ---
 
-Desenvolvido por Matheus Marconi Santos https://github.com/matheus-marconi mmarconi05@gmail.com
+Desenvolvido por Matheus Marconi Santos https://github.com/matheus-marconi
